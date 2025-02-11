@@ -157,8 +157,8 @@ button{
 
 button:hover{
 
-    background-color: #247BA0;
+    background-color: #66ece0;
     color: white;
     transform:translateY(10px) ;
-    box-shadow: 0px 15px 20px  #1ea9e5 ;
+    box-shadow: 0px 15px 20px  #66ece0 ;
 }
